@@ -1,0 +1,9 @@
+## Mac
+.DS_Store
+
+## ipynb
+.ipynb_checkpoints
+
+recipes_w_search_terms.csv
+
+*.zip
